@@ -4,7 +4,7 @@ import {FaTwitter,FaInstagram,FaLinkedin, FaFacebookF} from 'react-icons/fa'
 
 function Main(){
    return(
-   <div id="main">
+   <div id="home" >
       <img className="w-full h-screen object-cover object-center " alt="img-bg" src="https://images.unsplash.com/photo-1464746133101-a2c3f88e0dd9?q=80&w=1443&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
    <div className="w-full h-screen top-0 left-0 bg-white/50 absolute">
      <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center ">

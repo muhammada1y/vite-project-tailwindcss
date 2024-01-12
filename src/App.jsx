@@ -1,8 +1,8 @@
-import react from 'react';
 import SideNav from './compontes/sideNav';
 import Main from './compontes/main';
 import Work from './compontes/work';
 import Project from './compontes/projects';
+import Contact from './compontes/contact';
 function App() {
 
   return (
@@ -11,6 +11,7 @@ function App() {
       <Main/>
       <Work/>
       <Project/>
+      <Contact/>
     </>
   )
 }

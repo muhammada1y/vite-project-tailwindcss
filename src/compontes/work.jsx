@@ -26,7 +26,7 @@ const data = [
 
 function Work() {
     return (
-        <div  className="max-w-[1040] m-auto md:pl-20 p-4 py-16">
+        <div id="work" className="max-w-[1040] m-auto md:pl-20 p-4 py-16">
             <h1 className="text-4xl font-bold text-center text-blue-400">Work</h1>
             {
                 data.map((items, id) => (
